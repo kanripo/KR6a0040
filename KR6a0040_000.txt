@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文陀竭王經
+#+DATE: 2015-08-30 19:29:32.507708
+#+PROPERTY: JUAN 0
